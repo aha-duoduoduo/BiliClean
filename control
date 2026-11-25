@@ -1,0 +1,9 @@
+Package: com.ahaduoduoduo.bilibilisp
+Name: BiliClean
+Version: 1.0.46
+Architecture: iphoneos-arm
+Description: B站完整视频下载、赞助跳过、CDN加速、TAB管理、广告屏蔽、关键词过滤、离线缓存并发设置、倍速修改与Web调试插件
+Maintainer: aha-duoduoduo
+Author: aha-duoduoduo
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
